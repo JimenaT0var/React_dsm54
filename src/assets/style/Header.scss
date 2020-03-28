@@ -1,6 +1,8 @@
+
+@import "./Vars.scss";
 .header {
     align-items: center;
-    background: #3c1cf0;
+    background-color: $main-color;
     color: white;
     display: flex;
     height: 100px;
