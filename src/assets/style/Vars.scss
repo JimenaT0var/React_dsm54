@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Multi&display-swap);
+$theme-font: 'Muli, sans-serif';
+$main-color: #e91f95;
+
+
+body{
+	background: $main-color;
+	font-family: $theme-font;
+	}
